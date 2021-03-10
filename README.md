@@ -1,28 +1,37 @@
 # Hi!
-I'm student of Wrocław University of Science and Technology and a leader of the Tech Team and the Media Team at the local church in Świebodzin ([kzswieb.eu](https://kzswieb.eu)).
+I'm student of Wrocław University of Science and Technology.
 
+ • [Personal webpage](goorkamateusz.github.io)
  • [Pinterest](https://pl.pinterest.com/goorkamateusz/_saved/)
  • [Instagram](https://www.instagram.com/goorkamateusz/)
  • [Facebook](https://www.facebook.com/goorkamateusz)
+ • [LinkedIn](https://www.linkedin.com/in/goorkamateusz/)
  •
 
 ___
-Interests
-
+**My interests:**
 🕹 `GameDev`
-🌐 `Distributed systems` `Web` `Backend`
+🌐 `Distributed systems`
+🗃 `Backend`
+🛠 `Software architecture`
 🧪 `Unit tests`
-🎚 `Sound engineering`
+🤖 `Life automation`
 ⛰ `Mountains`
+🎚 `Sound engineering`
+📷 `Photography & graphics`
 
 ___
-Technology:
-
-`C#`,
+**Favorite technologies:**
+`C#` (.NET, Unity, Xamarin),
 `Python`,
 `C++`,
-`C`
+`C`,
 `PHP`,
-`JavaScript`,
-`HTML/CSS`,
+`JavaScript` (jQuery),
+`HTML`,
+`CSS`,
 `LaTeX`
+
+
+![Photo of...](img/orla-perc-wide.jpg)
+_Orla Perć, Tatra Mountains, Poland_
