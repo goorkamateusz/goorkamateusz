@@ -1,5 +1,5 @@
 # Hi!
-I'm student of Wrocław University of Science and Technology.
+I'm developer in [Pixel Storm Game Studio](https://pixelstorm.pl/) and student of Wrocław University of Science and Technology.
 
  • [Personal webpage](https://goorkamateusz.github.io)
  • [Pinterest](https://pl.pinterest.com/goorkamateusz/_saved/)
@@ -14,17 +14,18 @@ ___
 🌐 `Distributed systems`
 🗃 `Backend`
 🛠 `Software architecture`
-🧪 `Unit tests`
 🤖 `Life automation`
 ⛰ `Mountains`
 🎚 `Sound engineering`
 📷 `Photography & graphics`
+<!-- 🧪 `Unit tests` -->
 
 ___
-**Favorite technologies:**
+**🔥 Favorite technologies:**
 `C#` (.NET, Unity, Xamarin),
 `Python`,
 `C++`,
+**🛠 I'm use also:**
 `C`,
 `PHP`,
 `JavaScript` (jQuery),
