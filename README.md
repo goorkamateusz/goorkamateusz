@@ -5,7 +5,6 @@ I'm developer in [Pixel Storm Game Studio](https://pixelstorm.pl/) and student o
  • [Instagram](https://www.instagram.com/goorkamateusz/)
  • [Facebook](https://www.facebook.com/goorkamateusz)
  • [LinkedIn](https://www.linkedin.com/in/goorkamateusz/)
- • [Pinterest](https://pl.pinterest.com/goorkamateusz/_saved/)
  •
 
 ___
