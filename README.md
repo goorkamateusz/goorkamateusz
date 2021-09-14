@@ -14,15 +14,15 @@ ___
 🌐 `Distributed systems`
 🗃 `Backend`
 🛠 `Software architecture`
-🧪 `Unit tests`
 🤖 `Life automation`
+🧪 `Unit tests`
 ⛰ `Mountains`
 🎚 `Sound engineering`
 📷 `Photography & graphics`
 
 ___
 **Favorite technologies:**
-`C#` (.NET, Unity, Xamarin),
+`C#` (.NET, ASP.NET, Unity),
 `Python`,
 `C++`,
 `C`,
