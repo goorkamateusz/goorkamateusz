@@ -1,5 +1,6 @@
 # Hi!
-I'm developer in [Pixel Storm Game Studio](https://pixelstorm.pl/) and student of Wrocław University of Science and Technology.
+I’m an Control Engineering & Robotics engineer in the course of doing master degree of Computer Science.
+Currently, I gain experience as game developer in [Pixel Storm Game Studio](https://pixelstorm.pl/).
 
  • [Personal webpage](https://goorkamateusz.github.io)
  • [Instagram](https://www.instagram.com/goorkamateusz/)
@@ -10,26 +11,26 @@ I'm developer in [Pixel Storm Game Studio](https://pixelstorm.pl/) and student o
 ___
 **My interests:**
 🕹 `GameDev`
-🌐 `Distributed systems`
-🗃 `Backend`
 🛠 `Software architecture`
+🗃 `Backend`
 🤖 `Life automation`
+🌐 `Distributed systems`
 ⛰ `Mountains`
 🎚 `Sound engineering`
 📷 `Photography & graphics`
-<!-- 🧪 `Unit tests` -->
 
 ___
 **🔥 Favorite technologies:**
-`C#` (.NET, Unity Engine, ASP.NET),
+`C#` (.NET, UnityEngine, ASP.NET),
 `Python`,
-`C++`,
+`C++`
+
 **🛠 I use also:**
 `C`,
 `PHP`,
-`JavaScript` (jQuery),
-`HTML`,
-`CSS`,
+`JavaScript`, <!-- `TypeScript`, -->
+`HTML5`,
+`CSS3`,
 `LaTeX`
 
 
