@@ -3,9 +3,9 @@ I’m an Control Engineering & Robotics engineer in the course of doing master d
 Currently, I gain experience as game developer in [Pixel Storm Game Studio](https://pixelstorm.pl/).
 
  • [Personal webpage](https://goorkamateusz.github.io)
+ • [LinkedIn](https://www.linkedin.com/in/goorkamateusz/)
  • [Instagram](https://www.instagram.com/goorkamateusz/)
  • [Facebook](https://www.facebook.com/goorkamateusz)
- • [LinkedIn](https://www.linkedin.com/in/goorkamateusz/)
  •
 
 ___
@@ -21,18 +21,31 @@ ___
 
 ___
 **🔥 Favorite technologies:**
-`C#` (.NET, UnityEngine, ASP.NET),
+`C#` (UnityEngine, ASP.NET),
 `Python`,
-`C++`
+`TypeScript`
 
 **🛠 I use also:**
+`C++`
 `C`,
+`Bash`,
 `PHP`,
-`JavaScript`, <!-- `TypeScript`, -->
+`JavaScript`,
 `HTML5`,
 `CSS3`,
 `LaTeX`
 
+___
+**My main projects:**
+
+| Project        | Description                                          | Stack              |
+| :------------- | :--------------------------------------------------- | :----------------- |
+| [Cyber Fusion] | Commercial, Android and iOS, idle tower defense game | Unity 3D, Firebase |
+
+<!-- | [Graph Map]    | My graduation project                                | ASP.NET, JS, MariaDB | -->
+
+[Cyber Fusion]: https://goorkamateusz.github.io/cyber-fushion.html
+[Graph Map]: https://goorkamateusz.github.io/GraphMap.html
 
 ![Photo of...](img/orla-perc-wide.jpg)
 _Orla Perć, Tatra Mountains, Poland_
