@@ -36,11 +36,9 @@ ___
 `LaTeX`
 
 ___
-**My main projects:**
-
-| Project        | Description                                          | Stack              |
-| :------------- | :--------------------------------------------------- | :----------------- |
-| [Cyber Fusion] | Commercial, Android and iOS, idle tower defense game | Unity 3D, Firebase |
+| **Main projects** | _Description_                                        | _Stack_                       |
+| :---------------- | :--------------------------------------------------- | :---------------------------- |
+| [Cyber Fusion]    | Commercial, Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` |
 
 <!-- | [Graph Map]    | My graduation project                                | ASP.NET, JS, MariaDB | -->
 
