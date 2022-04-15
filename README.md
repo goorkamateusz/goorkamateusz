@@ -21,9 +21,9 @@ ___
 
 ___
 **🔥 Favorite technologies:**
-`C#` (UnityEngine, ASP.NET),
+`C#` [UnityEngine, ASP.NET],
 `Python`,
-`TypeScript`
+`TypeScript` [React]
 
 **🛠 I use also:**
 `C++`
@@ -36,13 +36,15 @@ ___
 `LaTeX`
 
 ___
-| **Main projects** | _Description_                                        | _Stack_                       |
-| :---------------- | :--------------------------------------------------- | :---------------------------- |
-| [Cyber Fusion]    | Commercial, Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` |
+| **Main projects** | _Description_                                               | _Stack_                       |
+| :---------------- | :---------------------------------------------------------- | :---------------------------- |
+| [Cyber Fusion]    | `2021` Commercial, Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` |
+| [Pirates Saga]    | `2022` Multi-platform, MMO-RPG, NFT based game              | `Unity3D`, `TopDownEngine`    |
 
 <!-- | [Graph Map]    | My graduation project                                | ASP.NET, JS, MariaDB | -->
 
 [Cyber Fusion]: https://goorkamateusz.github.io/cyber-fushion.html
+[Pirates Saga]: https://piratessaga.pl/
 [Graph Map]: https://goorkamateusz.github.io/GraphMap.html
 
 ![Photo of...](img/orla-perc-wide.jpg)
