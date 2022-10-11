@@ -1,6 +1,8 @@
 # Hi!
+<!--brief-->
 I’m an Control Engineering & Robotics engineer in the course of doing master degree of Computer Science.
 Currently, I gain experience as game developer in [Pixel Storm Game Studio](https://pixelstorm.pl/).
+<!--/brief-->
 
  • [Personal webpage](https://goorkamateusz.github.io)
  • [LinkedIn](https://www.linkedin.com/in/goorkamateusz/)
@@ -8,6 +10,7 @@ Currently, I gain experience as game developer in [Pixel Storm Game Studio](http
  • [Facebook](https://www.facebook.com/goorkamateusz)
  •
 
+<!--brief-->
 ___
 **My interests:**
 🕹 `GameDev`
@@ -34,6 +37,7 @@ ___
 `HTML5`,
 `CSS3`,
 `LaTeX`
+<!--/brief-->
 
 ___
 | **Main projects** | _Description_                                               | _Stack_                       |
