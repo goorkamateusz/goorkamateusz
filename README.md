@@ -2,15 +2,15 @@
 <!--brief-->
 I’m an Control Engineering & Robotics engineer in the course of doing master degree of Computer Science.
 Currently, I gain experience as game developer in [Pixel Storm Game Studio](https://pixelstorm.pl/).
-<!--/brief-->
 
+<!--ignore-->
  • [Personal webpage](https://goorkamateusz.github.io)
  • [LinkedIn](https://www.linkedin.com/in/goorkamateusz/)
  • [Instagram](https://www.instagram.com/goorkamateusz/)
  • [Facebook](https://www.facebook.com/goorkamateusz)
  •
+<!--/ignore-->
 
-<!--brief-->
 ___
 **My interests:**
 🕹 `GameDev`
@@ -40,10 +40,10 @@ ___
 <!--/brief-->
 
 ___
-| **Main projects** | _Description_                                               | _Stack_                       |
-| :---------------- | :---------------------------------------------------------- | :---------------------------- |
-| [Cyber Fusion]    | `2021` Commercial, Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` |
-| [Pirates Saga]    | `2022` Multi-platform, MMO-RPG, NFT based game              | `Unity3D`, `TopDownEngine`    |
+| **Main projects** | _Description_                                   | _Stack_                       | _Tags_       |
+| :---------------- | :---------------------------------------------- | :---------------------------- | :----------- |
+| [Cyber Fusion]    | `2021` Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` | `Commercial` |
+| [Pirates Saga]    | `2022` Multi-platform, MMO-RPG, NFT based game  | `Unity3D`, `TopDownEngine`    | `Commercial` |
 
 <!-- | [Graph Map]    | My graduation project                                | ASP.NET, JS, MariaDB | -->
 
