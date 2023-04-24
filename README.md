@@ -1,7 +1,7 @@
 # Hi!
 <!--brief-->
 I’m an Control Engineering & Robotics engineer in the course of doing master degree of Computer Science.
-Currently, I gain experience as game developer in [Pixel Storm Game Studio](https://pixelstorm.pl/).
+Currently, I gain experience as game developer at [Pixel Storm Game Studio](https://pixelstorm.pl/).
 
 <!--ignore-->
  • [Personal webpage](https://goorkamateusz.github.io)
