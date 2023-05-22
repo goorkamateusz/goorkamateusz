@@ -28,7 +28,7 @@ ___
 
 
 **🛠 I use also:**
-`C++`
+`C++`,
 `C`,
 `Bash`,
 `TypeScript` [React],
