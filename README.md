@@ -1,15 +1,18 @@
 # Hi!
 <!--brief-->
-My little hobby at work is focusing on good code architecture and the performance of created code. I especially feel comfortable working with server-side applications and the base architecture of games.
-I have the most experience with the C# language within the Unity Engine and framework ASP.NET. Besides, I am happy to use Python, Bash, or whatever works for me at that time ([recommended tools](https://goorkamateusz.github.io/#/tools)).
+As a software developer, I'm passionate about code architecture and performance.
+I'm most eager to work on the server-side of applications and the base architecture of games.
+The experience I have gained working with games has given me a deep understanding of the patterns and practices that are essential for creating high-quality software.
 
-I am a Master of Computer Science and Control Engineering and Robotics Engineer.
-Currently, I am gaining experience as a game developer at [Pixel Storm Game Studio](https://pixelstorm.pl/).
+I have the most experience with C# language within the .NET 8 framework and Unity Engine.
+Also, I'm happy to use Python, Bash, JavaScript or whatever best fits the problem at the time.
+
+Currently, I'm working with the server part of applications and games at [Pixel Storm Game Studio](https://pixelstorm.pl/).
 
 <!--ignore-->
  • [Personal webpage](https://goorkamateusz.github.io)
- • [LinkedIn](https://www.linkedin.com/in/goorkamateusz/)
- • [Instagram](https://www.instagram.com/goorkamateusz/)
+ • [LinkedIn](https://www.linkedin.com/in/goorkamateusz)
+ • [Instagram](https://www.instagram.com/goorkamateusz)
  • [Facebook](https://www.facebook.com/goorkamateusz)
  •
 <!--/ignore-->
@@ -22,10 +25,10 @@ ___
 🤖 `Life automation`
 ⛰ `Mountains`
 🎚 `Sound engineering`
-📷 `Photography & graphics`
+📷 `Photography`
 
 ___
-**🔥 Favorite technologies:**
+**🔥 Stack:**
 `C#` [.NET, Unity3D],
 `Python`
 
