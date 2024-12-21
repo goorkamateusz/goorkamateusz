@@ -1,10 +1,11 @@
 # Hi!
 <!--brief-->
 As a software developer, I'm passionate about code architecture and performance.
-I'm most eager to work on the server-side of applications and the base architecture of games.
-The experience I have gained working with games has given me a deep understanding of the patterns and practices that are essential for creating high-quality software.
+Eager to work on the server-side of applications and the foundational structure of games.
+I follow Domain-Driven Design (DDD) principles to ensure that software aligns closely with the understanding of the problem domain.
+My experience with games has provided a deep understanding of the patterns and practices essential for creating high-quality software.
 
-I have the most experience with C# language within the .NET 8 framework and Unity Engine.
+I have the most experience with C# language within the .NET 8 and Unity Engine.
 Also, I'm happy to use Python, Bash, JavaScript or whatever best fits the problem at the time.
 
 Currently, I'm working with the server part of applications and games at [Pixel Storm Game Studio](https://pixelstorm.pl/).
@@ -13,31 +14,32 @@ Currently, I'm working with the server part of applications and games at [Pixel 
  • [Personal webpage](https://goorkamateusz.github.io)
  • [LinkedIn](https://www.linkedin.com/in/goorkamateusz)
  • [Instagram](https://www.instagram.com/goorkamateusz)
- • [Facebook](https://www.facebook.com/goorkamateusz)
+ • [Polecajki](https://polecajki.notion.site/Polecajki-dbe690d94d54406a98e783875a585b9e)
  •
 <!--/ignore-->
 
 ___
 **My interests:**
-🕹 `GameDev`
-🗃 `Backend`
-🛠 `Software architecture`
-🤖 `Life automation`
-⛰ `Mountains`
-🎚 `Sound engineering`
-📷 `Photography`
+🕹`GameDev`
+🗃`Backend`
+🛠`Software architecture`
+📚`DDD`
+⛰`Mountains`
+🎚`Sound engineering`
+📷`Photography`
 
 ___
 **🔥 Stack:**
-`C#` [.NET, Unity3D],
-`Python`
+`.NET`, `Unity3D`
 
 **🛠 I use also:**
+`Python`,
 `Bash`,
 `C++`,
 `C`,
-`TypeScript` [React],
+`TypeScript`,
 `JavaScript`,
+`React`,
 `PHP`,
 `HTML5`,
 `CSS3`,
@@ -46,16 +48,3 @@ ___
 
 ![Photo of...](img/orla-perc-wide.jpg)
 _Orla Perć, Tatra Mountains, Poland_
-
-___
-| **Main projects** | _Description_                                   | _Stack_                       | _Tags_       |
-| :---------------- | :---------------------------------------------- | :---------------------------- | :----------- |
-| [Cyber Fusion]    | `2021` Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` | `Commercial` |
-| [Pirates Saga]    | `2022` Multi-platform, MMO-RPG, NFT based game  | `Unity3D`, `TopDownEngine`    | `Commercial` |
-| [Ballies]         | `2023` Multi-platform, cards, NFT based game    | `Unity3D`, `.NET6`            | `Commercial` |
-<!-- | [Graph Map]    | My graduation project                                | ASP.NET, JS, MariaDB | -->
-
-[Cyber Fusion]: https://goorkamateusz.github.io/cyber-fushion.html
-[Pirates Saga]: https://piratessaga.pl/
-[Graph Map]: https://goorkamateusz.github.io/GraphMap.html
-[Ballies]: https://ballies.gg
