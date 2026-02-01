@@ -1,49 +1,43 @@
 # Hi!
 <!--brief-->
 As a software developer, I'm passionate about code architecture and performance.
-Eager to work on the server-side of applications and the foundational structure of games.
-I follow Domain-Driven Design (DDD) principles to ensure that software aligns closely with the understanding of the problem domain.
-My experience with games has provided a deep understanding of the patterns and practices essential for creating high-quality software.
+Eager to work on the server-side of applications and the foundational structure of games, I follow Domain-Driven Design (DDD) principles to align software with the problem domain.
+My experience in game development provides me with a deep understanding of the patterns essential for creating high-quality, robust software.
+
+My work covers the full development lifecycle, allowing me to contribute to the end-to-end process of building software.
+This includes everything from architecting the initial system design and guiding it through incremental changes, to writing clean code, deploying applications, and ensuring their ongoing maintenance and reliability.
 
 I have the most experience with C# language within the .NET 8 and Unity Engine.
-Also, I'm happy to use Python, Bash, JavaScript or whatever best fits the problem at the time.
-
-Currently, I'm working with the server part of applications and games at [Pixel Storm Game Studio](https://pixelstorm.pl/).
+Also, I'm happy to use Python, Bash, TypeScript or whatever best fits the problem at the time.
 
 <!--ignore-->
- • [Personal webpage](https://goorkamateusz.github.io)
- • [LinkedIn](https://www.linkedin.com/in/goorkamateusz)
- • [Instagram](https://www.instagram.com/goorkamateusz)
- • [Polecajki](https://polecajki.notion.site/Polecajki-dbe690d94d54406a98e783875a585b9e)
- •
+ [Personal Page](https://goorkamateusz.github.io)
+ • [🗃️ LinkedIn](https://www.linkedin.com/in/goorkamateusz)
+ • [📸 Instagram](https://www.instagram.com/goorkamateusz)
+ • [🛠️ Polecajki](https://polecajki.notion.site/Polecajki-dbe690d94d54406a98e783875a585b9e)
 <!--/ignore-->
 
 ___
-**My interests:**
+**My Interests 🔥**
+
 🕹`GameDev`
-🗃`Backend`
 🛠`Software architecture`
 📚`DDD`
+🗃`Backend`
+🧳`Travel`
 ⛰`Mountains`
-🎚`Sound engineering`
 📷`Photography`
+🎚`Sound engineering`
 
-___
-**🔥 Stack:**
-`.NET`, `Unity3D`
+**Toolkit 🛠**
 
-**🛠 I use also:**
-`Python`,
-`Bash`,
-`C++`,
-`C`,
-`TypeScript`,
-`JavaScript`,
-`React`,
-`PHP`,
-`HTML5`,
-`CSS3`,
-`LaTeX`
+- `C#`, `.NET 8`, `Unity3D`
+- `Python`, `Bash`, `JavaScript`, `TypeScript`, `React`, `C++`, `C`, `PHP`
+- `HTML5`, `CSS3`, `LaTeX`
+- **Data** `MongoDB`, `Redis`, `NATS (JetStreams)`, `MySQL`, `PostgreSQL`
+- **Infrastructure** `Docker`, `Docker Swarm`, `AWS`, `Nginx`
+- **Monitoring** `Grafana`, `Loki`, `Prometheus`, `Node Exporter`, `cAdvisor`
+
 <!--/brief-->
 
 ![Photo of...](img/orla-perc-wide.jpg)
